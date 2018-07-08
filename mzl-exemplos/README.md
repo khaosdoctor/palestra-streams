@@ -9,7 +9,10 @@ Execute um servidor local HTTP (podendo ser com qualquer servidor) acesse a raiz
 - [Usando http-server](https://www.npmjs.com/package/http-server)
 - [Usando Python](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 
-Exemplos:
+Ou você pode clicar no link dos exemplos abaixo para ir ao repositório hosteado pela Mozilla
+
+## Exemplos
+
 * [Simple stream pump](http://mdn.github.io/dom-examples/streams/simple-pump/): This example shows how to consume a ReadableStream and pass its data to another.
 * [Grayscale a PNG](http://mdn.github.io/dom-examples/streams/grayscale-png/): This example shows how a ReadableStream of a PNG can be turned into grayscale.
 * [Simple random stream](http://mdn.github.io/dom-examples/streams/simple-random-stream/): This example shows how to use a custom stream to generate random strings, enqueue them as chunks, and then read them back out again.
