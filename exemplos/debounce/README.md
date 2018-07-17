@@ -1,4 +1,4 @@
-# debounce
+# debounceImmediate
 
 ## Como rodar
 

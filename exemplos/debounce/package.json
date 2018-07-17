@@ -1,5 +1,5 @@
 {
-  "name": "debounce",
+  "name": "debounce-immediate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
