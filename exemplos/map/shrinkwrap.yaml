@@ -1,0 +1,12 @@
+dependencies:
+  baconjs: 2.0.9
+packages:
+  /baconjs/2.0.9:
+    dev: false
+    resolution:
+      integrity: sha512-S+fLz2VVmE+cHR+Ce6SssiMIcB/nb6RJcnHR1B81SG/4ihxBlK2F72xDDPWzt/dxzFTxNfmwMTcI+/Dc6ynfhQ==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  baconjs: ^2.0.7
